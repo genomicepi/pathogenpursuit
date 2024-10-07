@@ -8,5 +8,15 @@ Pathogen pursuit was first created for the Science Play Corner at the 2024 ESCMI
 
 The game is still a prototype, and I only have a small number of physical copies which I make with my XTool computer-guided laser. To make the game more accessible, I've created a printable version of the game. The game materials should be printed on heavy cardstock, or cut out and pasted to heavy cardstock or paperboard.
 
-If you play the game, I'd love to get your feedback! You can submit feedback through Github, or through my [feedback link](https://airtable.com/appIcx3JTI2b0QQuc/shr71unlJelpMvx0h)
+**To get started, you'll need to print out the game board and pieces:**
 
+* [Board and Pieces](https://github.com/genomicepi/pathogenpursuit/blob/main/Game%20Board%20and%20Pieces/Pathogen_Pursuit_Board_and_Tokens.pdf)
+* [Cards](https://github.com/genomicepi/pathogenpursuit/blob/main/Game%20Board%20and%20Pieces/Pathogen_Pursuit_Cards.pdf)
+
+You'll also need to print out notes sheets, they print out two per page, and each player will need one
+* [Player notes sheets](https://github.com/genomicepi/pathogenpursuit/blob/main/Game%20Board%20and%20Pieces/Pathogen_Pursuit_Chart_Notes.pdf)
+
+Don't forget to print out the instructions!
+* [Pathogen Pursuit Rules](https://github.com/genomicepi/pathogenpursuit/blob/main/Instructions/Pathogen_Pursuit_Rules.pdf)
+
+If you play the game, I'd love to get your feedback! You can submit feedback through Github, or through my [feedback link](https://airtable.com/appIcx3JTI2b0QQuc/shr71unlJelpMvx0h)
